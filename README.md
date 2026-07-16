@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav PS</h1>
-<h3 align="center">Currently pursuing B.Tech in Computer Science Engineering at Amrita Vishwa Vidyapeetham (Coimbatore campus).I am looking for opportunities to apply my knowledge and skills to real-world problems and contribute to the growth of the organization. Please feel free to connect with me to explore any opportunities or collaborations.</h3>
+<h3 align="center">Hey, I'm Pranav — a CS grad from Amrita Vishwa Vidyapeetham and a recent SDE Intern at Amazon, where I built AI-powered developer tooling, managed Tier-1 production systems at scale, and worked on everything from cloud migration to CI/CD automation under the Digital Acceleration team.
+I'm passionate about backend systems, automation, and building things that cut out the toil. My repos here reflect that — from an AI-powered SDLC pipeline (DREAM) to ML research on climate data fusion and community detection.
+Outside of code, I've led teams, managed finances for a national techfest, and represented Cisco and Volvo on campus. I show up the same way in everything I do — fully.
+Always open to collaborating on interesting problems. Feel free to explore, fork, or reach out!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavps298&label=Profile%20views&color=0e75b6&style=flat" alt="pranavps298" /> </p>
 
